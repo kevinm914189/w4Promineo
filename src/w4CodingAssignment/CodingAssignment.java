@@ -175,7 +175,7 @@ public class CodingAssignment {
 		System.out.println("12.  " + caLL12);
 		
 	
-	//13. inventory list
+	//13. inventory list that checks your supplies before you leave. If you have enough, you will be good to go. If you do not have enough, you will be informed to get more.
 		int junctionBoxes = 5;
 		int filters = 10;
 		int bxCableFt = 40;
