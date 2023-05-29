@@ -3,7 +3,7 @@ package w4CodingAssignment;
 public class CodingAssignment {
 
 	public static void main(String[] args) {
-	//Alternate method usage begins at line __ associated with question 7.
+	//Alternate method usage begins at line 196 associated with question 7.
 		//Variables associated with for loops are labeled j along with an identifier for the question it began with.
 		//Variables marked i denote an integer value, along with an identifier for the question it began with 
 		//Int values begin lowercase a-z
